@@ -17,6 +17,8 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("再上传一次");
+        System.out.println("看看效果");
 
     }
     public void test(){
